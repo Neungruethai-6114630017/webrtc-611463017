@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webrtc-611463017/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/webrtc-611463017/static/js/main.bcdcac0f.chunk.js",
+    "main.js.map": "/webrtc-611463017/static/js/main.bcdcac0f.chunk.js.map",
+    "runtime-main.js": "/webrtc-611463017/static/js/runtime-main.e063e24c.js",
+    "runtime-main.js.map": "/webrtc-611463017/static/js/runtime-main.e063e24c.js.map",
+    "static/js/2.d9e28bfa.chunk.js": "/webrtc-611463017/static/js/2.d9e28bfa.chunk.js",
+    "static/js/2.d9e28bfa.chunk.js.map": "/webrtc-611463017/static/js/2.d9e28bfa.chunk.js.map",
+    "static/js/3.8fc2ed3e.chunk.js": "/webrtc-611463017/static/js/3.8fc2ed3e.chunk.js",
+    "static/js/3.8fc2ed3e.chunk.js.map": "/webrtc-611463017/static/js/3.8fc2ed3e.chunk.js.map",
+    "index.html": "/webrtc-611463017/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/webrtc-611463017/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d9e28bfa.chunk.js.LICENSE.txt": "/webrtc-611463017/static/js/2.d9e28bfa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/webrtc-611463017/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e063e24c.js",
+    "static/js/2.d9e28bfa.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bcdcac0f.chunk.js"
+  ]
+}
